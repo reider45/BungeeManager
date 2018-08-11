@@ -1,0 +1,1 @@
+This plugin allows the user to add/modify/delete bungee servers during the runtime.
